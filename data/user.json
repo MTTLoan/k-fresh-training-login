@@ -1,0 +1,18 @@
+{
+  "qa": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "staging": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "uat": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "production": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  }
+}
